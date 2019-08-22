@@ -34,7 +34,7 @@ if string != '':
 			print("q 0")
 		elif state == 4:
 			state = 4
-			print("q 3")
+			print("q 4")
 
 if state == 4:
 	print("String is valid and accepted!")
